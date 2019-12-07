@@ -41,8 +41,7 @@ a {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
-     top:-10px;
-    top:0px;
+    top:10px;
   }
 
     .main-nav a:hover {
