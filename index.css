@@ -49,6 +49,7 @@ a {
 
     .main-nav a:hover {
       bottom: -20px;
+      top: 0px;
     }
 
 .page-content {
