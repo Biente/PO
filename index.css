@@ -75,7 +75,7 @@ h2 {
 
 
 .page-nav {
- 
+ position: absolute;
 }
 
   .page-nav ul {
