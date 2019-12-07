@@ -4,7 +4,11 @@ html, body {
   margin: 0;
   font-family: open sans;
  }
-
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #6f717d
+}
 .page {
   background-color: white;
 }
