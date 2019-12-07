@@ -81,6 +81,7 @@ h2 {
   .page-nav ul {
     list-style-type: none;
     padding-left: 20px;
+    margin-left: -200px;
   }
 
     .page-nav ul li {
