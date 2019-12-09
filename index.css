@@ -2,7 +2,7 @@ ndhtml, body {
   background-color: #f3f3f3;
   padding: 0;
   margin: 0;
-  font-family: open sans;
+  font-family: sans serif;
  }
 p {
   max-width: 75ch;
